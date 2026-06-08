@@ -24,7 +24,7 @@ O repositório está organizado da seguinte forma:
 
 O portfólio está publicado e pode ser acessado diretamente pelo navegador através do link do GitHub Pages:
 
- [Acesse meu Portfólio](https://ajmcsantos2.github.io/portf-lio-/)
+ [Acesse meu Portfólio](https://ajmcsantos2.github.io/meu-portfolio/)
 
 ---
 Desenvolvido por **Ana Júlia de Melo** 
